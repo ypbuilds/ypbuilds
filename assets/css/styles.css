@@ -135,7 +135,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-height: 7.5rem;
+  min-height: 5.5rem;
   padding: 0.5rem 0;
 }
 
